@@ -8,7 +8,7 @@ The current project was given as a technical test and is part of the evaluation 
 
 If Maven is installed use:  
 
-`./mvn spring-boot:run`
+`mvn spring-boot:run`
 
 If Maven is not installed use (needs Internet Connection for Maven Wrapper to download): 
 
