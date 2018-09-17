@@ -14,6 +14,10 @@ If Maven is not installed use (needs Internet Connection for Maven Wrapper to do
 
 `./mvnw spring-boot:run`
 
+## Run Test Cases
+
+`mvn test`
+
 ## Frameworks
 
 The simulator uses Spring Framework for the dependency management as well as Spring Boot for a fast bootstrap of the application.
